@@ -1,0 +1,94 @@
+body{
+    background-image: url(Images/iStock-1309681989.jpg);
+    font-family: sans-serif,'Times New Roman', Times, serif;
+    padding:20px;
+}
+h1, h2, p{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 30px;
+}
+h1,h2{
+    font-family: impact,serif;
+}
+.est{
+    font-style: italic;
+}
+hr{
+    height: 1px;
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+.menu{
+    width: 80%;
+    background-color: rgb(215, 209, 230);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 800px; 
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+.items p{
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.topic p{
+    font-family: Impact, serif;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.def{
+    text-align: left;
+    width: 75%;
+}
+.pef{
+    text-align: right;
+    width: 25%;
+}
+
+.flavor{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+.bottom-line{
+    margin-top: 25px;
+}
+/*FOOTER*/
+footer{
+    font-size: 15px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: blueviolet;
+}
+a:active{
+    color: blueviolet;
+}
+address{
+    text-align: center;
+    margin-bottom: 5px;
+}
